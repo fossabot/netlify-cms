@@ -1,6 +1,5 @@
 # Netlify CMS
 [![All Contributors](https://img.shields.io/badge/all_contributors-83-orange.svg)](#contributors)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftech4him1%2Fnetlify-cms.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftech4him1%2Fnetlify-cms?ref=badge_shield)
 [![](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/netlify/netlifycms)
 
 A CMS for static site generators. Give non-technical users a simple way to edit
